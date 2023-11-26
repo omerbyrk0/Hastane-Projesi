@@ -1,0 +1,24 @@
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\bin\Debug\Hastane Projesi.exe.config
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\bin\Debug\Hastane Projesi.exe
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\bin\Debug\Hastane Projesi.pdb
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.AssemblyReference.cache
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane_Projesi.Properties.Resources.resources
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.GenerateResource.cache
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.CoreCompileInputs.cache
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane Projesi.exe
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane Projesi.pdb
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane_Projesi.FrmGirisler.resources
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane_Projesi.Frm_BranşPaneli.resources
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane_Projesi.Frm_DoktorPaneli.resources
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane_Projesi.Frm_HastaGiris.resources
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane_Projesi.Frm__DokorBilgiDüzenle.resources
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane_Projesi.Frm_DoktorDetay.resources
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane_Projesi.Frm_DoktorGiriş.resources
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane_Projesi.Frm_Duyurular.resources
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane_Projesi.Frm_HastaBilgiDüzenle.resources
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane_Projesi.Frm_HastaDetay.resources
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane_Projesi.Frm_Hasta_Kayıt.resources
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane_Projesi.Frm_SekreterDetay.resources
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane_Projesi.Frm_SekreterGiriş.resources
+C:\Users\12ome\source\repos\SQL SERVER\Hastane Projesi\obj\Debug\Hastane_Projesi.Frm_Randevular.resources
